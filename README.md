@@ -15,7 +15,8 @@
 <p>
 
 <a href="https://github.com/444sofiane/MERN-Stack-Workshop.git">
-  <img src="https://github-readme-stats-sstealzz.vercel.app/api/pin/?username=sstealzz&repo=VideoSweeper&layout=compact&theme=tokyonight" />
+  <img src="https://static-00.iconduck.com/assets.00/git-repository-line-icon-429x512-iq0s1f9d.png" />
+  <figcaption> MERN Stack Workshop</figcaption>
 </a>
 </p>
 
