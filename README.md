@@ -6,8 +6,25 @@
 - 🌱 I'm interested in DevOps, BI, Mobile and Web development
 - 📫 How to reach me:
 
-[![Discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discordapp.com/users/512610747356938245)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/512610747356938245)
 [![EMAIL](https://img.shields.io/badge/EMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sofiane.saou@epitech.eu)
+
+<!-- Important Projects/Repos -->
+
+<h3 align="center"> My Work 💻 </h3>
+<p>
+
+<a href="https://github.com/444sofiane/MERN-Stack-Workshop.git">
+  <img src="https://github-readme-stats-sstealzz.vercel.app/api/pin/?username=sstealzz&repo=VideoSweeper&layout=compact&theme=tokyonight" />
+</a>
+</p>
+
+<p>
+<h3 align ="center" > Github Stats 🦑 </h3>
+
+<p align = "left"> 
+    <img src="![444sofiane's Stats](https://github-readme-stats.vercel.app/api?username=444sofiane&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)" />
+</p>
 
 
 <!--
