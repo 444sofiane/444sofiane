@@ -1,4 +1,14 @@
-### Hi there 👋
+<img src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif">
+
+<h3 align="center"> Hi I'm Sofiane, a french IT student in my 3rd year at Epitech Strasbourg </h3>
+
+- 🔭 I'm looking for an internship
+- 🌱 I'm interested in DevOps, BI, Mobile and Web development
+- 📫 How to reach me:
+
+[![Discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discordapp.com/users/512610747356938245)
+[![EMAIL](https://img.shields.io/badge/EMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sofiane.saou@epitech.eu)
+
 
 <!--
 **444sofiane/444sofiane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
