@@ -31,6 +31,11 @@
     />
 </p>
 
+<p align ="left">
+    <img src = "(https://github-readme-stats.vercel.app/api/top-langs/?username=444sofiane&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"
+    />
+</p>
+
 
 <!--
 **444sofiane/444sofiane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
