@@ -23,7 +23,7 @@
 <h3 align ="center" > Github Stats 🦑 </h3>
 
 <p align = "left"> 
-    <img src="![444sofiane's Stats](https://github-readme-stats.vercel.app/api?username=444sofiane&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=444sofiane&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
 </p>
 
 
