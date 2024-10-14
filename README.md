@@ -2,7 +2,7 @@
 
 <h3 align="center"> Hi I'm Sofiane, a french IT student in my 3rd year at Epitech Strasbourg </h3>
 
-- 🔭 I'm looking for an internship
+- 🔭 I'm looking for an IT Job
 - 🌱 I'm interested in DevOps, BI, Mobile and Web development
 - 📫 How to reach me:
 
