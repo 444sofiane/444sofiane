@@ -8,10 +8,11 @@
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/512610747356938245)
 [![EMAIL](https://img.shields.io/badge/EMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sofiane.saou@epitech.eu)
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=q0z1v2ullrnvtz7hiy8clkzle&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 <h3 align="center">Currently Listening To 🎧</h3>
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=q0z1v2ullrnvtz7hiy8clkzle&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 <!-- Important Projects/Repos -->
 
 <h3 align="center"> My Work 💻 </h3>
