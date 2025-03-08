@@ -9,6 +9,13 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/512610747356938245)
 [![EMAIL](https://img.shields.io/badge/EMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sofiane.saou@epitech.eu)
 
+<h3 align="center">Currently Listening To 🎧</h3>
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=q0z1v2ullrnvtz7hiy8clkzle&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=q0z1v2ullrnvtz7hiy8clkzle&cover_image=true&theme=novatorem" alt="Spotify Now Playing" />
+  </a>
+</p>
+
 <!-- Important Projects/Repos -->
 
 <h3 align="center"> My Work 💻 </h3>
