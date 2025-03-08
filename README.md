@@ -12,31 +12,36 @@
 <!-- Important Projects/Repos -->
 
 <h3 align="center"> My Work 💻 </h3>
-<p>
 
-<a href="https://github.com/444sofiane/MERN-Stack-Workshop.git">
-  <img src="https://toppng.com/uploads/preview/git-repository-icon-github-repo-icon-svg-115534438372aunh6vf0u.png" width="50" />
-  <figcaption> MERN Stack Workshop</figcaption>
-</a>
+<div style="display: flex; flex-direction: column; gap: 15px;">
+  <div>
+    <a href="https://github.com/444sofiane/MERN-Stack-Workshop.git">
+      <img src="https://toppng.com/uploads/preview/git-repository-icon-github-repo-icon-svg-115534438372aunh6vf0u.png" width="50" />
+      <figcaption> MERN Stack Workshop</figcaption>
+    </a>
+  </div>
 
-<a href="https://github.com/444sofiane/FlutterWorkshop.git">
-  <img src="https://toppng.com/uploads/preview/git-repository-icon-github-repo-icon-svg-115534438372aunh6vf0u.png" width="50" />
-  <figcaption> Flutter Workshop</figcaption>
-</a>
+  <div>
+    <a href="https://github.com/444sofiane/FlutterWorkshop.git">
+      <img src="https://toppng.com/uploads/preview/git-repository-icon-github-repo-icon-svg-115534438372aunh6vf0u.png" width="50" />
+      <figcaption> Flutter Workshop</figcaption>
+    </a>
+  </div>
 
-<a href="https://github.com/444sofiane/GitActionsWorkshop.git">
-  <img src="https://toppng.com/uploads/preview/git-repository-icon-github-repo-icon-svg-115534438372aunh6vf0u.png" width="50" />
-  <figcaption> GitAction Workshop</figcaption>
-</a>
+  <div>
+    <a href="https://github.com/444sofiane/GitActionsWorkshop.git">
+      <img src="https://toppng.com/uploads/preview/git-repository-icon-github-repo-icon-svg-115534438372aunh6vf0u.png" width="50" />
+      <figcaption> GitAction Workshop</figcaption>
+    </a>
+  </div>
 
-
-
-<a href="https://github.com/444sofiane/DBeaverWorkshop.git">
-  <img src="https://toppng.com/uploads/preview/git-repository-icon-github-repo-icon-svg-115534438372aunh6vf0u.png" width="50" />
-  <figcaption> SQL and DBeaver Workshop</figcaption>
-</a>
-
-</p>
+  <div>
+    <a href="https://github.com/444sofiane/DBeaverWorkshop.git">
+      <img src="https://toppng.com/uploads/preview/git-repository-icon-github-repo-icon-svg-115534438372aunh6vf0u.png" width="50" />
+      <figcaption> SQL and DBeaver Workshop</figcaption>
+    </a>
+  </div>
+</div>
 
 <p>
 <h3 align ="center" > Github Stats 🦑 </h3>
