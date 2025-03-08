@@ -20,19 +20,19 @@
 </a>
 
 <a href="https://github.com/444sofiane/FlutterWorkshop.git">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftoppng.com%2Ffree-image%2Fgit-repository-icon-github-repo-icon-svg-PNG-free-PNG-Images_126440&psig=AOvVaw09ZfrzUspJSbSgLkAWB3lV&ust=1706110749469000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCdmvzr84MDFQAAAAAdAAAAABAP" />
+  <img src="https://toppng.com/uploads/preview/git-repository-icon-github-repo-icon-svg-115534438372aunh6vf0u.png" width="50" />
   <figcaption> Flutter Workshop</figcaption>
 </a>
 
 <a href="https://github.com/444sofiane/GitActionsWorkshop.git">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftoppng.com%2Ffree-image%2Fgit-repository-icon-github-repo-icon-svg-PNG-free-PNG-Images_126440&psig=AOvVaw09ZfrzUspJSbSgLkAWB3lV&ust=1706110749469000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCdmvzr84MDFQAAAAAdAAAAABAP" />
+  <img src="https://toppng.com/uploads/preview/git-repository-icon-github-repo-icon-svg-115534438372aunh6vf0u.png" width="50" />
   <figcaption> GitAction Workshop</figcaption>
 </a>
 
 
 
 <a href="https://github.com/444sofiane/DBeaverWorkshop.git">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftoppng.com%2Ffree-image%2Fgit-repository-icon-github-repo-icon-svg-PNG-free-PNG-Images_126440&psig=AOvVaw09ZfrzUspJSbSgLkAWB3lV&ust=1706110749469000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCdmvzr84MDFQAAAAAdAAAAABAP" />
+  <img src="https://toppng.com/uploads/preview/git-repository-icon-github-repo-icon-svg-115534438372aunh6vf0u.png" width="50" />
   <figcaption> SQL and DBeaver Workshop</figcaption>
 </a>
 
