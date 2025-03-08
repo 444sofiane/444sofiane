@@ -66,6 +66,12 @@
     <img src="https://github-trophies.vercel.app/?username=444sofiane&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
+<h3 align ="center" > Github Views 👀</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=444sofiane&color=brightgreen" alt="Profile views" />
+</p>
+
 <h3 align ="center" > Dev Quotes ✍️</h3>
 
 <p align = "left"> 
