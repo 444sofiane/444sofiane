@@ -15,7 +15,7 @@
 <p>
 
 <a href="https://github.com/444sofiane/MERN-Stack-Workshop.git">
-  <img src="https://toppng.com/uploads/preview/git-repository-icon-github-repo-icon-svg-115534438372aunh6vf0u.png" />
+  <img src="https://toppng.com/uploads/preview/git-repository-icon-github-repo-icon-svg-115534438372aunh6vf0u.png" width="50" />
   <figcaption> MERN Stack Workshop</figcaption>
 </a>
 
