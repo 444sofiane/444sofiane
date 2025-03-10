@@ -5,7 +5,6 @@
 - 🔭 I'm looking for an IT Job
 - 🌱 I'm interested in DevOps, BI, Mobile and Web development
 - 🌍 My site (still on work):
-  [![Website](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](https://sofianesite.vercel.app/)
 - 📫 How to reach me:
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/512610747356938245)
