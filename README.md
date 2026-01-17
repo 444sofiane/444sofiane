@@ -13,7 +13,7 @@
 
 <h3 align="center">Currently Listening To 🎧</h3>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=q0z1v2ullrnvtz7hiy8clkzle&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=q0z1v2ullrnvtz7hiy8clkzle&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
 <!-- Important Projects/Repos -->
 
 <h3 align="center"> My Work 💻 </h3>
@@ -46,24 +46,16 @@
       <figcaption> SQL and DBeaver Workshop</figcaption>
     </a>
   </div>
+
+  <div>
+    <a href="https://github.com/444sofiane/SensorsAppMobile">
+      <img src="https://toppng.com/uploads/preview/git-repository-icon-github-repo-icon-svg-115534438372aunh6vf0u.png" width="50" />
+      <figcaption> Flutter app using soensor_plus lib</figcaption>
+    </a>
+  </div>
+
 </div>
 
-<p>
-<h3 align ="center" > Github Stats 🦑 </h3>
-
-<p align = "left"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=444sofiane&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
-</p>
-
-<p align ="left">
-    <img src = "https://github-readme-streak-stats.herokuapp.com/?user=444sofiane&theme=vue-dark&hide_border=true"
-    />
-</p>
-
-<p align ="left">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=444sofiane&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"
-    />
-</p>
 
 <h3 align ="center" > Github Trophies 🏆</h3>
 
@@ -95,4 +87,5 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src = "https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white">
 </p>
