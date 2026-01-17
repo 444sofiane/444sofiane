@@ -1,10 +1,10 @@
 <img src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif">
 
-<h3 align="center"> Hi I'm Sofiane, a french IT student in my 3rd year at Epitech Strasbourg </h3>
+<h3 align="center"> Hi I'm Sofiane, a french IT student in my 4th year at Epitech Strasbourg </h3>
 
 - 🔭 I'm looking for an IT Job
 - 🌱 I'm interested in DevOps, BI, Mobile and Web development
-- 🌍 My site (still on work):
+- 🌍 My site (still on work): https://sofianesite.vercel.app/
 - 📫 How to reach me:
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/512610747356938245)
