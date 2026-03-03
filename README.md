@@ -50,7 +50,7 @@
   <div>
     <a href="https://github.com/444sofiane/SensorsAppMobile">
       <img src="https://toppng.com/uploads/preview/git-repository-icon-github-repo-icon-svg-115534438372aunh6vf0u.png" width="50" />
-      <figcaption> Flutter app using soensor_plus lib</figcaption>
+      <figcaption> Flutter app using sensor_plus lib</figcaption>
     </a>
   </div>
 
