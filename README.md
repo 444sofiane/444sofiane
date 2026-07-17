@@ -54,6 +54,13 @@
     </a>
   </div>
 
+  <div>
+    <a href="https://github.com/444sofiane/CandyvoiceDemo">
+      <img src="https://toppng.com/uploads/preview/git-repository-icon-github-repo-icon-svg-115534438372aunh6vf0u.png" width="50" />
+      <figcaption> Full stack web-app by myself </figcaption>
+    </a>
+  </div>
+
 </div>
 
 
